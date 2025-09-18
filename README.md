@@ -27,7 +27,7 @@ The goal is to identify **revenue leakage, high denial categories, payer ineffic
 - **DenialReason** – Reason for denial (if applicable)  
 - **Amount** – Claim value in USD  
 
-📂 [Dataset Excel File](./CaseStudy_RCM.xlsx)  
+📂 [Dataset Excel File](CaseStudy_RCM.xlsx)  
 
 ---
 
