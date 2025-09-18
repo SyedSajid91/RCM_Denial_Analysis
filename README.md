@@ -1,4 +1,5 @@
-<img width="287" height="192" alt="image" src="https://github.com/user-attachments/assets/f3aca840-a148-44b7-b87c-8627b70a8906" /># 📊 Case Study: RCM Claim Denial & AR Days Analysis  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f42522e-176f-4f06-be75-1c82d7fd5081" />
+# 📊 Case Study: RCM Claim Denial & AR Days Analysis  
 
 ## 🔹 Project Overview  
 This project analyzes **claim denial patterns and AR (Accounts Receivable) days** for a healthcare provider.  
