@@ -1,6 +1,13 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f42522e-176f-4f06-be75-1c82d7fd5081" />
 # 📊 Case Study: RCM Claim Denial & AR Days Analysis  
 
+![Excel](https://img.shields.io/badge/Tool-Excel-blue?logo=microsoft-excel)
+![Case Study](https://img.shields.io/badge/Type-RCM%20Case%20Study-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Dataset](https://img.shields.io/badge/Dataset-Synthetic-orange)
+![Open%20to%20Collab](https://img.shields.io/badge/Open%20to-Collaboration-yellow)
+
+
 ## 🔹 Project Overview  
 This project analyzes **claim denial patterns and AR (Accounts Receivable) days** for a healthcare provider.  
 The goal is to identify **revenue leakage, high denial categories, payer inefficiencies, and AR delays** using Excel.  
