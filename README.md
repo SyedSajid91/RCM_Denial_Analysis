@@ -107,6 +107,6 @@ The analysis helped the hospital to:
 👤 *Syed Sajid Hussain*  
 - 💼 Data Analyst | RCM Knowledge | Excel & BI Solutions  
 - 🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- 📂 [Portfolio Repository](https://github.com/yourusername)  
+- 📂 [Portfolio Repository](https://github.com/SyedSajid91)  
 
 ---
