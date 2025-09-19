@@ -8,8 +8,8 @@
 ![Open%20to%20Collab](https://img.shields.io/badge/Open%20to-Collaboration-yellow)
 
 
-## 🔹 Project Overview  
-This project analyzes **claim denial patterns and AR (Accounts Receivable) days** for a healthcare provider.  
+## 🔹 Case Study Overview  
+This case study analyzes **claim denial patterns and AR (Accounts Receivable) days** for a healthcare provider.  
 The goal is to identify **revenue leakage, high denial categories, payer inefficiencies, and AR delays** using Excel.  
 
 ---
