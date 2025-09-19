@@ -95,7 +95,7 @@ The analysis helped the hospital to:
 
 ---
 
-## 🔹 How to Use This Project  
+## 🔹 How to Use This Case Study  
 1. Download the dataset: [CaseStudy_RCM.xlsx](./CaseStudy_RCM.xlsx)  
 2. Open in Excel  
 3. Explore the Pivot Tables and Dashboard  
